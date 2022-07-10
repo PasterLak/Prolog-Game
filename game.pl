@@ -1,9 +1,9 @@
 % programming in logic
-reload:- [swe].
+reload:- [game].
 open(F):- [F].
 :- initialization(main).
 main :- write('--- File is loaded! ---'), nl, start.
-% touch swe.pl gprolog
+% touch game.pl gprolog
 
 :- use_module(library(lists)).
 
