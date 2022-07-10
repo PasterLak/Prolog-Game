@@ -1,1 +1,1 @@
-# Prolog-Game
+# Prolog GNU Game
